@@ -6,7 +6,7 @@ const App = () => {
       <div className="chatbot-popup">
         {/* Chatbot Header */}
         <div className="chat-header">
-          <div className="header info">
+          <div className="header-info">
             <ChatbotIcon />
             <h2 className="logo-text">Chatbot</h2>
           </div>
@@ -24,7 +24,8 @@ const App = () => {
           </div>
           <div className="message user-message">
             <ChatbotIcon />
-            <p className="message-text">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print</p>
+            <p className="message-text">Lorem ipsum, or lipsum as it
+              t</p>
           </div>
         </div>
         {/* Chatbot Footer */}
